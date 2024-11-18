@@ -26,7 +26,7 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:  
    bash
-   [git clone https://github.com//your-repo-name.git  ] 
+   [git clone https://github.com//your-repo-name.git  ] https://github.com/Druthi07/Crowd_sourcing.git
    cd global-design-crowdsourcing 
    
 
